@@ -2,7 +2,7 @@ export const site = {
   name: "Arthur Buhl",
   role: "Étudiant ingénieur en informatique — EPITA",
   tagline:
-    "Je conçois et développe des applications web robustes, du back-end à l'interface, avec un soin particulier pour la clarté du code et la sécurité.",
+    "Étudiant à EPITA, actuellement à la recherche d'un stage en développement informatique.",
   location: "France",
   photo: "/profile.jpeg",
   photoAlt: "Portrait d'Arthur Buhl",

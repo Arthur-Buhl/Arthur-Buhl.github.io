@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     template: `%s — ${site.name}`,
   },
   description: site.tagline,
+  referrer: "no-referrer",
   authors: [{ name: site.name }],
   keywords: ["Arthur Buhl", "portfolio", "EPITA", "développeur", "ingénieur"],
   openGraph: {
